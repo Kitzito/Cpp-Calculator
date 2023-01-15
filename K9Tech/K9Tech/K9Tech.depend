@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673787863 source:c:\users\kz\desktop\c++ codex\k9tech\k9tech\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+
